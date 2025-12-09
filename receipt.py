@@ -3,7 +3,7 @@
  1. Prints days until New Year's Sale (Jan 1)
  2. Prints a "return by" date 30 days in the future at 9:00 PM
  3. Implements Buy One Get One Half Off for product D083
- 4 Prints a coupon for the first product ordered """
+ 4 Prints a coupon for the first product ordered... """
 
 
 
